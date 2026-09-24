@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 900" font-family="Figtree, ui-sans-serif, system-ui, sans-serif">
+  <rect width="1200" height="900" fill="#fdf6ec"/>
+  <rect x="1" y="1" width="1198" height="898" fill="none" stroke="#eadfce" stroke-width="2"/>
+
+  <text x="48" y="76" fill="#1c1c24" font-size="30" font-weight="700" letter-spacing="1">Paint Pomodoro</text>
+  <text x="48" y="112" fill="#a29a8e" font-size="18" letter-spacing="1">focus 25 · reveal the canvas</text>
+
+  <circle cx="420" cy="480" r="224" fill="none" stroke="#1c1c24" stroke-width="3"/>
+  <circle cx="420" cy="480" r="224" fill="none" stroke="#ffcf3a" stroke-width="12"
+          stroke-dasharray="1407.4" stroke-dashoffset="351.8" transform="rotate(-90 420 480)" stroke-linecap="round"/>
+  <circle cx="420" cy="480" r="210" fill="none" stroke="#eadfce" stroke-width="2"/>
+
+  <text x="420" y="462" fill="#1c1c24" font-size="80" font-weight="700" text-anchor="middle">18:45</text>
+  <text x="420" y="506" fill="#a29a8e" font-size="20" text-anchor="middle" letter-spacing="6">FOCUS</text>
+
+  <g stroke="#eadfce" stroke-width="2">
+    <rect x="720" y="240" width="76" height="76" rx="10" fill="#ffcf3a"/><rect x="808" y="240" width="76" height="76" rx="10" fill="#f7c9d3"/><rect x="896" y="240" width="76" height="76" rx="10" fill="#a8d8ea"/><rect x="984" y="240" width="76" height="76" rx="10" fill="#bde3c1"/><rect x="1072" y="240" width="76" height="76" rx="10" fill="#c9b8e8"/>
+    <rect x="720" y="328" width="76" height="76" rx="10" fill="#f7c9d3"/><rect x="808" y="328" width="76" height="76" rx="10" fill="#a8d8ea"/><rect x="896" y="328" width="76" height="76" rx="10" fill="#bde3c1"/><rect x="984" y="328" width="76" height="76" rx="10" fill="#c9b8e8"/><rect x="1072" y="328" width="76" height="76" rx="10" fill="none"/>
+    <rect x="720" y="416" width="76" height="76" rx="10" fill="#a8d8ea"/><rect x="808" y="416" width="76" height="76" rx="10" fill="#bde3c1"/><rect x="896" y="416" width="76" height="76" rx="10" fill="#c9b8e8"/><rect x="984" y="416" width="76" height="76" rx="10" fill="none"/><rect x="1072" y="416" width="76" height="76" rx="10" fill="none"/>
+    <rect x="720" y="504" width="76" height="76" rx="10" fill="#bde3c1"/><rect x="808" y="504" width="76" height="76" rx="10" fill="#c9b8e8"/><rect x="896" y="504" width="76" height="76" rx="10" fill="none"/><rect x="984" y="504" width="76" height="76" rx="10" fill="none"/><rect x="1072" y="504" width="76" height="76" rx="10" fill="none"/>
+    <rect x="720" y="592" width="76" height="76" rx="10" fill="#c9b8e8"/><rect x="808" y="592" width="76" height="76" rx="10" fill="none"/><rect x="896" y="592" width="76" height="76" rx="10" fill="none"/><rect x="984" y="592" width="76" height="76" rx="10" fill="none"/><rect x="1072" y="592" width="76" height="76" rx="10" fill="none"/>
+  </g>
+
+  <text x="48" y="840" fill="#a29a8e" font-size="16" letter-spacing="1">chrome extension · mv3</text>
+</svg>

@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 750" font-family="Figtree, ui-sans-serif, system-ui, sans-serif">
+  <rect width="1200" height="750" fill="#fdf6ec"/>
+  <rect x="1" y="1" width="1198" height="748" fill="none" stroke="#eadfce" stroke-width="2"/>
+
+  <text x="48" y="80" fill="#1c1c24" font-size="34" font-weight="700">Payday Super</text>
+  <text x="48" y="118" fill="#a29a8e" font-size="18">super paid with wages · every payday</text>
+
+  <!-- employer -->
+  <rect x="90" y="290" width="280" height="160" rx="18" fill="#c9b8e8"/>
+  <text x="230" y="360" fill="#1c1c24" font-size="24" font-weight="700" text-anchor="middle">EMPLOYER</text>
+  <text x="230" y="396" fill="#5f5a67" font-size="17" text-anchor="middle">payroll run</text>
+
+  <!-- split -->
+  <path d="M370 340 C 470 295, 520 265, 620 235" fill="none" stroke="#5f5a67" stroke-width="3"/>
+  <path d="M370 400 C 470 445, 520 475, 620 505" fill="none" stroke="#5f5a67" stroke-width="3"/>
+
+  <!-- wages -->
+  <rect x="630" y="160" width="310" height="150" rx="18" fill="#a8d8ea"/>
+  <text x="785" y="225" fill="#1c1c24" font-size="22" font-weight="700" text-anchor="middle">WAGES</text>
+  <text x="785" y="262" fill="#5f5a67" font-size="17" text-anchor="middle">→ employee</text>
+
+  <!-- super -->
+  <rect x="630" y="440" width="310" height="150" rx="18" fill="#bde3c1"/>
+  <text x="785" y="505" fill="#1c1c24" font-size="22" font-weight="700" text-anchor="middle">SUPER · 12%</text>
+  <text x="785" y="542" fill="#5f5a67" font-size="17" text-anchor="middle">→ super fund</text>
+
+  <text x="48" y="700" fill="#a29a8e" font-size="16">australian superannuation guarantee</text>
+</svg>

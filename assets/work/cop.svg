@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 750" font-family="Figtree, ui-sans-serif, system-ui, sans-serif">
+  <rect width="1200" height="750" fill="#fdf6ec"/>
+  <rect x="1" y="1" width="1198" height="748" fill="none" stroke="#eadfce" stroke-width="2"/>
+
+  <text x="48" y="80" fill="#1c1c24" font-size="34" font-weight="700">CoP</text>
+  <text x="48" y="118" fill="#a29a8e" font-size="18">Confirmation of Payee · name matching</text>
+
+  <!-- you enter -->
+  <rect x="90" y="280" width="340" height="230" rx="18" fill="#f7c9d3"/>
+  <text x="120" y="334" fill="#1c1c24" font-size="22" font-weight="700">You enter</text>
+  <text x="120" y="376" fill="#5f5a67" font-size="18">BSB + account number</text>
+  <text x="120" y="412" fill="#5f5a67" font-size="18">Account name</text>
+  <text x="120" y="462" fill="#a29a8e" font-size="16">e.g. "J. CITIZAN"</text>
+
+  <!-- match -->
+  <rect x="470" y="280" width="260" height="230" rx="18" fill="#ffffff" stroke="#eadfce" stroke-width="2"/>
+  <text x="600" y="334" fill="#1c1c24" font-size="22" font-weight="700" text-anchor="middle">Match</text>
+  <rect x="492" y="360" width="216" height="56" rx="12" fill="#bde3c1"/>
+  <text x="600" y="396" fill="#1c1c24" font-size="20" font-weight="600" text-anchor="middle">✓ JANE CITIZEN</text>
+  <rect x="492" y="430" width="216" height="56" rx="12" fill="#f7c9d3"/>
+  <text x="600" y="466" fill="#5f5a67" font-size="20" text-anchor="middle">✗ J. CITIZAN</text>
+
+  <!-- result -->
+  <rect x="770" y="280" width="340" height="230" rx="18" fill="#bde3c1"/>
+  <text x="800" y="334" fill="#1c1c24" font-size="22" font-weight="700">Result</text>
+  <text x="800" y="380" fill="#5f5a67" font-size="19">✓ match → proceed</text>
+  <text x="800" y="416" fill="#5f5a67" font-size="19">✗ mismatch → hold</text>
+  <text x="800" y="462" fill="#a29a8e" font-size="16">warns before you pay</text>
+
+  <text x="48" y="700" fill="#a29a8e" font-size="16">npp service · cuts misdirected payments</text>
+</svg>

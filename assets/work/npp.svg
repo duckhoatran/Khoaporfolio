@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 750" font-family="Figtree, ui-sans-serif, system-ui, sans-serif">
+  <rect width="1200" height="750" fill="#fdf6ec"/>
+  <rect x="1" y="1" width="1198" height="748" fill="none" stroke="#eadfce" stroke-width="2"/>
+
+  <text x="48" y="80" fill="#1c1c24" font-size="34" font-weight="700">NPP</text>
+  <text x="48" y="118" fill="#a29a8e" font-size="18">New Payments Platform · real-time</text>
+
+  <!-- bank A -->
+  <rect x="110" y="300" width="300" height="160" rx="18" fill="#c9b8e8"/>
+  <text x="260" y="370" fill="#1c1c24" font-size="26" font-weight="700" text-anchor="middle">BANK A</text>
+  <text x="260" y="404" fill="#5f5a67" font-size="17" text-anchor="middle">Payer</text>
+
+  <!-- bank B -->
+  <rect x="790" y="300" width="300" height="160" rx="18" fill="#a8d8ea"/>
+  <text x="940" y="370" fill="#1c1c24" font-size="26" font-weight="700" text-anchor="middle">BANK B</text>
+  <text x="940" y="404" fill="#5f5a67" font-size="17" text-anchor="middle">Payee</text>
+
+  <!-- connection -->
+  <line x1="410" y1="380" x2="790" y2="380" stroke="#5f5a67" stroke-width="3" stroke-dasharray="10 8"/>
+  <!-- bolt -->
+  <circle cx="600" cy="380" r="46" fill="#ffcf3a" opacity="0.25"/>
+  <path d="M604 340 L582 380 L604 380 L586 422" fill="none" stroke="#1c1c24" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+
+  <text x="600" y="488" fill="#5f5a67" font-size="19" text-anchor="middle">instant · 24 / 7 / 365</text>
+  <text x="600" y="518" fill="#a29a8e" font-size="15" text-anchor="middle">no batch windows</text>
+
+  <text x="48" y="700" fill="#a29a8e" font-size="16">australia · real-time payments rails</text>
+</svg>

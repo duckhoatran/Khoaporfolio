@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 900" font-family="Figtree, ui-sans-serif, system-ui, sans-serif">
+  <defs>
+    <marker id="arr" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto" markerUnits="strokeWidth">
+      <path d="M0,0 L8,3 L0,6 z" fill="#5f5a67"/>
+    </marker>
+  </defs>
+  <rect width="1200" height="900" fill="#fdf6ec"/>
+  <rect x="1" y="1" width="1198" height="898" fill="none" stroke="#eadfce" stroke-width="2"/>
+
+  <text x="48" y="76" fill="#1c1c24" font-size="30" font-weight="700" letter-spacing="1">Job Hunter Pipeline</text>
+  <text x="48" y="112" fill="#a29a8e" font-size="18" letter-spacing="1">crawl · match · tailor · send</text>
+
+  <g stroke="#5f5a67" stroke-width="2" marker-end="url(#arr)">
+    <line x1="346" y1="400" x2="464" y2="400"/>
+    <line x1="636" y1="400" x2="754" y2="400"/>
+    <line x1="926" y1="400" x2="1044" y2="400"/>
+  </g>
+
+  <g>
+    <rect x="146" y="290" width="200" height="220" rx="16" fill="#c9b8e8"/>
+    <text x="246" y="360" fill="#1c1c24" font-size="22" font-weight="700" text-anchor="middle">JD SOURCES</text>
+    <text x="246" y="396" fill="#5f5a67" font-size="16" text-anchor="middle">LinkedIn</text>
+    <text x="246" y="426" fill="#5f5a67" font-size="16" text-anchor="middle">Seek</text>
+    <text x="246" y="456" fill="#5f5a67" font-size="16" text-anchor="middle">Indeed</text>
+  </g>
+
+  <g>
+    <rect x="474" y="290" width="162" height="220" rx="16" fill="#a8d8ea"/>
+    <text x="555" y="360" fill="#1c1c24" font-size="22" font-weight="700" text-anchor="middle">MATCH</text>
+    <text x="555" y="398" fill="#5f5a67" font-size="16" text-anchor="middle">score vs</text>
+    <text x="555" y="428" fill="#5f5a67" font-size="16" text-anchor="middle">master CV</text>
+  </g>
+
+  <g>
+    <rect x="764" y="290" width="162" height="220" rx="16" fill="#bde3c1"/>
+    <text x="845" y="360" fill="#1c1c24" font-size="22" font-weight="700" text-anchor="middle">TAILOR</text>
+    <text x="845" y="398" fill="#5f5a67" font-size="16" text-anchor="middle">pick bullets</text>
+    <text x="845" y="428" fill="#5f5a67" font-size="16" text-anchor="middle">theme · tag</text>
+  </g>
+
+  <g>
+    <rect x="1054" y="290" width="100" height="220" rx="16" fill="#ffcf3a"/>
+    <text x="1104" y="360" fill="#1c1c24" font-size="22" font-weight="700" text-anchor="middle">SEND</text>
+    <text x="1104" y="398" fill="#5f5a67" font-size="16" text-anchor="middle">n8n</text>
+    <text x="1104" y="428" fill="#5f5a67" font-size="16" text-anchor="middle">tracked</text>
+  </g>
+
+  <text x="48" y="840" fill="#a29a8e" font-size="16" letter-spacing="1">python · selenium · n8n · mongodb</text>
+</svg>
